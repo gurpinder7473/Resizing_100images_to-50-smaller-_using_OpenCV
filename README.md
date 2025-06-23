@@ -1,0 +1,1 @@
+# Resizing_100images_to-50-smaller-_using_OpenCV
